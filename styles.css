@@ -1,4 +1,9 @@
 div{
     background-color: tomato;
     text-align: center;
+    margin:5px;
+}
+section{
+    background-color: chartreuse;
+    text-align:justify
 }
